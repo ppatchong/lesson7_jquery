@@ -1,0 +1,10 @@
+/*
+Program Name: Recipe Display Application
+Author: Patricia Patchong
+Date:December 5, 2016
+Filename: ExtraCredit.txt
+*/
+
+
+In my Recipe Display Application, the content of all the p elements are displayed in brown.
+I have also added an animation on the image: when mouse hovers over it, its size and opacity change.
